@@ -1,12 +1,12 @@
 [
   {
-    "repository": "android_device_oppo_common",
+    "repository": "XOSP-Devices/android_device_oppo_common",
     "target_path": "device/oppo/common",
     "revision": "xosp-n",
     "remote": "XOSPD"
   },
   {
-    "repository": "proprietary_vendor_oneplus",
+    "repository": "TheMuppets/proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
     "revision": "cm-14.1",
     "remote": "XOSPD"
